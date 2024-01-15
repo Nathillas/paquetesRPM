@@ -1,5 +1,5 @@
 # Paquetes RPM
-![Paquetesrpm](/img/paquetes.webp)
+![Paquetesrpm](/img/rpm.png)
 ## Índice
 ### [Introducción](introduccion.md)
 ### [Distribución Rockty Linux](distribucion.md)
