@@ -17,3 +17,6 @@ enabled=1
 gpgcheck=1
 gpgkey=http://example.com/repo/RPM-GPG-KEY
 ```
+Esto indica que hay un repositorio llamado "Example Repository" con la URL base **http://example.com/repo**, que está habilitado **(enabled=1)**, y que verifica las firmas GPG **(gpgcheck=1)** utilizando la clave GPG especificada.
+
+Cada repositorio puede tener su propio archivo en este directorio, y estos archivos definen cómo el sistema operativo buscará e instalará paquetes RPM.
