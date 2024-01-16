@@ -8,3 +8,12 @@ Por ejemplo, puedes encontrar un archivo de repositorio llamado **example.repo:*
 ```
 /etc/yum.repos.d/example.repo
 ```
+Dentro de este archivo, podrías encontrar algo similar a esto:
+```
+[example-repo]
+name=Example Repository
+baseurl=http://example.com/repo
+enabled=1
+gpgcheck=1
+gpgkey=http://example.com/repo/RPM-GPG-KEY
+```
