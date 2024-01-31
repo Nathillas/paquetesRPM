@@ -1,3 +1,5 @@
+![webgrafia](/img/webgrafia.png)
+
 # WEBGRAFIA
 - Sitio web oficial de Rocky Linux:
 [Rocky Linux](https://rockylinux.org/)
