@@ -1,6 +1,7 @@
 # Distribución Rocky Linux
 Rocky Linux es una distribución de sistema operativo de *_código abierto_* diseñada para ser un reemplazo binario compatible con **RHEL** (Red Hat Enterprise Linux). Fue creada para llenar el vacío dejado por el cambio de enfoque de **CentOS** después del anuncio de CentOS 8.
-[Rocky Linux](/img/imagenrocky.jpeg)
+
+![rocky](/img/descarga.png)
 ## Caracteristicas principales
 Como clon de RHEL, Rocky Linux es compatible con la mayoría de sus características. Sin embargo, algunas propias sólo están disponibles en RHEL, como live patching y Red Hat Sattelite.
 
