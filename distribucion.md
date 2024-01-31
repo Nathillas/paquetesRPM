@@ -9,7 +9,7 @@ Aunque es una distribución empresarial, las características de Rocky Linux tam
 
 - **Interfaz gráfica de usuario (GUI)**: Rocky Linux tiene una gran interfaz de usuario (UI). Es especialmente práctica para los usuarios que no están familiarizados con una interfaz de línea de comandos.
 
-[rockylinux](/img/rockylinux.jpg)
+![rocky](/img/descarga.png)
 
 - **Entorno de escritorio:** esta distribución Linux utiliza GNOME 40 como entorno de escritorio por defecto. Sus aplicaciones, interfaz de usuario y configuración rediseñadas hacen que Rocky Linux sea ideal para uso personal.
 - Sistema de archivos XFS: el XFS está diseñado para manejar grandes volúmenes de datos sin comprometer el rendimiento. Esto hace que Rocky Linux sea adecuado para servidores y matrices de almacenamiento de nivel empresarial.
